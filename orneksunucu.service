@@ -1,5 +1,5 @@
 [Unit]
-Description=Ornek bir sunucu
+Description=Gunicorn ile flask apı
 After=network.target
 
 [Service]
