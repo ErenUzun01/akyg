@@ -1,5 +1,5 @@
 [Unit]
-Description=Gunicorn ile flask apı
+Description=Gunicorn ile flask api
 After=network.target
 
 [Service]
